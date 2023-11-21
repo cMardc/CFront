@@ -444,7 +444,7 @@ It takes 2 parameters:
 - Path to .js file
 - function's name to execute
 
-❗ Reminder: pass function's name as a `string` (`char*`) to `addListener`, not the function itself.
+❗ Reminder: pass function's name as a `string` (`char*`) to `loadExternalScript`, not the function itself.
 
 ```js
 /* file.js */
